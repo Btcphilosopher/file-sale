@@ -315,4 +315,4 @@ Transaction lifecycle: `pending → confirmed → key_released | expired`
 
 ## License
 
-MIT — do whatever you want, but don't blame the author if you accept mainnet Bitcoin for cat pictures.
+The Personal Property of the account known as Philology Revolution with bitcoin selling it for £1000 a license for 4 weeks. As is the same with all my other software inventions. 1F5Ct4mjxRXahE2J7LmzUwYNFg72KvhRZ4
