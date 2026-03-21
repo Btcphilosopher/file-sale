@@ -1,0 +1,11 @@
+cryptography>=41.0.0
+requests>=2.31.0
+torf>=4.0.0
+qrcode[pil]>=7.4.2
+Pillow>=10.0.0
+flask>=3.0.0
+python-dotenv>=1.0.0
+hdwallet>=2.2.0
+bit>=0.8.0
+colorlog>=6.7.0
+click>=8.1.7
