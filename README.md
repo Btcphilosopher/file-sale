@@ -312,7 +312,3 @@ Transaction lifecycle: `pending → confirmed → key_released | expired`
 - **Single-seller model**: the DB schema and key storage assumes one operator. Multi-seller support would require per-seller key isolation.
 
 ---
-
-## License
-
-The Personal Property of the account known as Philology Revolution with bitcoin selling it for £1000 a license for 4 weeks. As is the same with all my other software inventions. 1F5Ct4mjxRXahE2J7LmzUwYNFg72KvhRZ4
